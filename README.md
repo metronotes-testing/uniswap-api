@@ -1,4 +1,4 @@
-# Uniswap API
+# Metroswap API
 
 The Uniswap API is a set of **authenticated** endpoints used by market aggregators (e.g. coinmarketcap.com) to surface 
 Uniswap liquidity and volume information. All information is fetched from the underlying subgraphs.
